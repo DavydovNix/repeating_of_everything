@@ -1,6 +1,6 @@
 package different;
 
-public class method_input {
+public class method_input1 {
     static int j = 0;
 
     static void method_example() {
@@ -10,7 +10,7 @@ public class method_input {
 }
     class test1{
         public static void main(String[] args) {
-            method_input.method_example();
+            method_input1.method_example();
         }
     }
 
